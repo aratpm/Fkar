@@ -48,16 +48,16 @@
         
 "demact":"https://www.pexels.com/",
 
-"appId":"ca-app-pub-6602096076242948~6865846628",
-"banner":"ca-app-pub-6602096076242948/8852865650",
+"appId":"ca-app-pub-2449640894622823~6194643223",
+"banner":"ca-app-pub-2449640894622823/4993775026",
 "interstial":"ca-app-pub-6602096076242948/4913620640",
 "AppOpen":"ca-app-pub-6602096076242948/2287457301",
 
 
 "TappId":"ca-app-pub-3940256099942544~3347511713",
 "Tbanner":"ca-app-pub-3940256099942544/6300978111",
-"Tinterstial":"ca-app-pub-3940256099942544/1033173712",
-"TAppOpen":"ca-app-pub-3940256099942544/3419835294",
+"Tinterstial":"ca-app-pub-2449640894622823/3376908190",
+"TAppOpen":"ca-app-pub-2449640894622823/4498418178",
 
 
 
