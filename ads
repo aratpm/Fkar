@@ -1,4 +1,4 @@
-{"status":true, 
+{"status":false, 
 
 "alinkone":"https://aratpm.github.io/repa/", 
 "alinktwo":"https://aratpm.github.io/repa/",
@@ -64,7 +64,7 @@
 "title":"ဆားဗားပြင်ဆင်နေပါသည်။",
 "about":"ဆော့ဝဲဆားဗားအားပြင်ဆင်နေပါသဖြင့်ကျေးဇူးပြုပြီးသည်းခံပေးပါ။",
 "update":"com.apyar.fullkar",
-"version":"2"
+"version":"1"
 
 
 
